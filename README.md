@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CAO Thien-Khang</h1>
 <h3 align="center">A curious developer</h3>
 
-- 🔭 I’m currently working on **A new Profolio**
+- 🔭 I’m currently working on **A Project using OSINT**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js and Flask**
 
 - 👨‍💻 All of my projects are available at [https://khang.caotek.fr/](https://khang.caotek.fr/)
 
