@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and expressJS**
 
-- 👨‍💻 All of my projects are available at [https://khang.caotek.fr/](https://khang.caotek.fr/)
+- 👨‍💻 All of my projects are available at [https://tkportfolio.caotek.fr/](https://tkportfolio.caotek.fr/)
 
 - 📝 I regularly write articles on [https://khang.caotek.fr/](https://khang.caotek.fr/)
 
