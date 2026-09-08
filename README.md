@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm CAO Thien-Khang</h1>
 <h3 align="center">A curious developer</h3>
 
-- 🔭 I’m currently working on **A Pokedex with PokeAPI**
+- 🔭 I’m currently working on **Vivy Bot**
 
-- 🌱 I’m currently learning **React.js and expressJS**
+- 🌱 I’m currently learning **Blender**
 
 - 👨‍💻 All of my projects are available at [https://tkportfolio.caotek.fr/](https://tkportfolio.caotek.fr/)
 
-- 📝 I regularly write articles on [https://khang.caotek.fr/](https://khang.caotek.fr/)
-
 - 📫 How to reach me **cao.thien.khang.pro@gmail.com**
 
-- ⚡ Fun fact **I'm learning to play smash bros**
+- ⚡ Fun fact **I'm learning to play AOE4*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
