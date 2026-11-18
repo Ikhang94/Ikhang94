@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CAO Thien-Khang</h1>
 <h3 align="center">A curious developer</h3>
 
-- 🔭 I’m currently working on **Vivy Bot**
+- 🔭 I’m currently working on **CK3 Simulator project**
 
 - 🌱 I’m currently learning **Blender**
 
